@@ -3,8 +3,6 @@
 
 __TODO__
 
-__2.5 - WIP__
-
 __2.6 - TODO__
 
 
@@ -351,3 +349,23 @@ seaports like Hangzhou and Guangzhou allowed China to link into Indian Ocean rou
 ### The Travels of Marco Polo and Ibn Battuta
 
 long-distance travel made easier through unifying forces of Pax Mongolia (the Mongol Peace) and Dar al-Salam (the house of Islam)
+
+(1274) Marco Polo (an Italian merchant) completed long journey that led him to court of Mongol leader Kublai Khan in China
+
+Marco Polo served Kublai Khan for next 17 years before returning to Italy
+
+he produced a written account of the sites, people, and events he encountered (this diary became a best-seller in Europe)
+
+Marco Polo inspired generations of Europeans to connect with outside world (led to exploration of the Americas and Africa)
+
+(1325) Ibn Battuta (a Muslim from Morocco in North Africa) began a journey that would last 44 years and cover 73,000 miles
+
+visited Mecca, Constantinople, Mesopotamia, Persia, India, Southeast Asia, southern China, Spain, and Mali
+
+Ibn Battuta's journeys mostly confined to Dar al-Islam but a variety of people and cultures
+
+Ibn Battuta recorded tales from his journey (a popular book that provides historians with important insights into the time period)
+
+#### Also...
+
+(1413) Margery Kempe from England journeyed to Holy Lands and Italy (her autobiography provided insights on women in medieval times)
