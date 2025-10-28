@@ -1,10 +1,6 @@
 # Unit 2
 
-
-__TODO__
-
 __2.6 - TODO__
-
 
 ## 2.1: The Silk Roads
 
