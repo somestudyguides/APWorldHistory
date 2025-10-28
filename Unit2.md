@@ -335,3 +335,19 @@ Buddhism spread to Southeast Asia, China, and Japan following trade routes (adap
 trade lead to increase importance and number of cities along land and sea trade routes
 
 (1200 - 1450) cities on trade routes saw luxury goods, new technologies, religions and culture spread
+
+Jenne, Timbuktu and Gao thrived on West African land routes
+
+cities like Constantinople and Kiev thrived on European land routes
+
+Baghdad (Middle East), Samarkand and Bukhara (Central Asia), and Dunhuang and Chang'an (East Asia) thrived on Silk Road
+
+Venice and Constantinople in Europe and Tyre in Middle East were important seaports on the Mediterranean Sea
+
+Hormuz (Middle East), Zanziabar, Mogadishu and Kilwa (East Africa), Calicut and Goa (India), Malacca (Southease Asia), were important Indian Ocean seaports
+
+seaports like Hangzhou and Guangzhou allowed China to link into Indian Ocean routes
+
+### The Travels of Marco Polo and Ibn Battuta
+
+long-distance travel made easier through unifying forces of Pax Mongolia (the Mongol Peace) and Dar al-Salam (the house of Islam)
