@@ -81,3 +81,84 @@ Kashgar in western China and Samarkand in Uzbekistan located on rivers and serve
 
 + 2D:
   Merchants used bills of exchange to prove they made deposits in other banking houses, allowing them to withdraw money
+
+## 2.2: The Mongol Empire and the Making of the Modern World
+
+The Mongole Empire covered 22% of Earth's Land Surface
+
+### Rise of the Mongols
+
+Mongols were nomadic pastorlists, horsemen and warriors from central grasslands of Asia
+
+Genghis Khan ("World Emperor") united the Mongol clans, created a disciplined army
+
+(early 1200s) under Genghis Khan the Mongols conquered most of Asia
+
+Mongol armies not large but expert horsemen (invented stirrups so archers could stand to fire arrows)
+
+The Mongols expanded west and conquered eastern Europe
+
+(1236) Batu (Genghis' grandson) invaded Russia but allowed Russian leaders to remain in power if they made annual tributes
+
+(late 1300s) tamerlane conquered Persia and Mesopotamia
+
+Mongols destroyed baghdad ending the Abbasid Dynasty (but many Mongols converted to Islam)
+
+(1279) Kublai Khan established a Mongol dynasty in China (Yuan Dynasty)
+
+Under Yuan Dynasty the Mongols conquered all of China, Korea, and Southease Asia
+
+(1271) Kublai Khan launched navl invasion of Japan ((invasion destroyed by typhoon)
+
+Tamerlane conquered India and established the Mughal Dynasty (Islam introduced to India)
+
+### Expansion of the Mongol Empire
+
+1206
+
+### Pax Mongolia
+
+Mongols brutally conquered people and destroyed civilizations but once control was established their rule was tolerant
+
+Mongols tolerant of diverse religions and customs as long as conquered people paid annual tribute
+
+After Genghis Khan died the empire was divided up among his sons into political regions called Khanates
+
+The Khanate of Kipchak had lasting impact on Russia (Russians called the Mongols the "Golden Horde")
+
+Russia did not experience Western progress for centuries because Mongols isolated them from rest of Europe
+
+Mongols ruled China for 150 years establishing a new capital at Khanbaliq (Beijing)
+
+China prospered under Yuan Dynasty (trade and cities flourished)
+
+The Yuan relegated Chinese to lower status than Mongols and elevated status of merchants angering confucian scholars)
+
+The Yuan respected Confucianism but did not use civil service exams for selecting bureaucrats (promoted Mongols to positoins of power)
+
+Political stability (called "Pax Mongolia") in largest empire in history allowed trade between East and West to grow
+
+Mongols only empire to control entire length of Silk Road making trade safer
+
+Mongol women could be soldiers, own property, be seen in public (high status of Mongol women alarmed other peoples)
+
+Mongols embraced military technology of conquered people (siege weapons like towers and catapults)
+
+(1204) Genghis Khan (hoping to unite empire) ordered creation of Uyghur alphabet (used in Mongolia today)
+
+### End of the Mongol Empire
+
+The Mongol Empire was too large and diverse for one power to rule over in perpetuity (khantes had little contact with each other)
+Mongols lacked history and experience with government (each Khanate adopted government traditions of conquered people)
+
+Leaders after Genghis and Kublai Khan were less effective
+
+Resentment against Mongols grew in conquered lands
+
+(14002) Russian people united under powerful czar (leader) from the city-state of Moscow to drive out the Mongols
+
+Chinese discontent with Mongol rule led to uprisings and the eventual end of Yuan Dynasty
+
+The secret White Lotus Society in China worked against Yuan Dynasty and in 1368 Zhu Yuanzhang (Buddhist monk) overthrew Mongols
+
+THe Mongol Empire did not decline and was not defeated (it fell apart as Khans assimilated into the cultures of conquered peoples)
