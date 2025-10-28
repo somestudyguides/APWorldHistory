@@ -176,3 +176,92 @@ Increased connectivity lead to increased transmission of ???? (bubonic plague sp
 Mongols fighting techniques and ???? were adopted by other states or forced those states to adapt to these changes
 
 Development of ???? (used by Mongols) contributed to the end of Eurasian cities reliance on walls for protection
+
+## 2.3 Indian Ocean Exchange
+
+### Effects of Expanded Exchange in the Indian Ocean
+
+• One effect of increased Indian Ocean trade was the creation of diasporic communities (settlements of people outside their homeland)
+
+• Diasporic communities established for economic reasons provided cross-cultural insights for cooperating governments
+
+• Muslim communities established in trading cities around rim of Indian ocean Southeast Asia, and China.
+
+• Chinese merchants lived in Southeast Asia throughout Indian Ocean
+
+• Jewish diasporic communities developed in China and India
+
+• Trade led to increased importance and number of cities along land and sea trade routes.
+
+• Hormuz (Middle East), Zanzibar, Mogadishu and Kilwa (East Africa), Calicut and Goa (India), Malacca, (Southeast Asia), were important Indian Ocean seaports
+
+• Seaports like Hangzhou and Guangzhou allowed China to link into Indian Ocean routes
+
+• Bantu-based languages spread to Southern and Eastern Africa, blending with Arabic to create Swahili
+
+• New technologies from China like gunpowder, paper, the compass, and the astrolabe spread
+
+• India spread knowledge of how to grow cotton and sugar and new types of rice merged from southeast Asia
+
+• The huge Indian ocean trade network led to creation of indeterminate Indian Ocean region
+
+### The Voyages of Zheng He
+
+• (1405-1435) Emperor Yongle of Ming Dynasty in China oversaw a series of naval expeditions (seeking luxury goods and expanded trade)
+
+• Unlike Yongle, most Ming emperors emphasized self-reliance and limited chinas contact with outside world.
+
+• Seven expeditions lead by Admiral Zheng. He visited places like Southeast Asia, India, the Red Sea, and East Africa
+
+• Zheng He commanded 317 vessels (Chinese junks were largest ships of era with 28,000 men)
+
+• Zheng He visited rulers of over 30 states (reasserting Chinas power after yuan Dynasty)
+
+• Chinese demanded tribute from people they encountered and brought back exotic animals and plants to the emperor
+
+• The ming created most powerful maritime empire in the world at the time (leading to great prosperity for all involved)
+
+• After Yongle’s death Ming leaders ended the voyages (an ethnocentric skepticism about the value of contact with the outside world).
+
+## 2.4 Trans-Saharan Trade Routes
+
+### The Trans-Saharan Trade Routes
+
+Northern Africa was western end of both the Silk Road and Indian Ocean route and was highly active in interregional trade
+
+Trans-Saharan caravan routes connected people living in West Africa (south of Sahara Desert) to the larger trade network
+
+The Sahara has many salt mines (an essential part of people’s diets)
+
+The Sahara Desert and nearby savanna has many gold mines
+
+The people of the savanna and desert traded their salt to obtain gold from the forested coastal area
+
+(c. 100 CE) the camel (“ship of the desert” originally for western Asia) introduced to the Berbers (nomads who ran trans-Saharan trade)
+
+Invention of camel saddle allowed Berbers to ride camels and increase the load carried
+
+Camel caravans led to increased trade by land in Africa (camels can carry up to 550 
+lbs. and go a week without water)
+
+Strong leaders created powerful kingdoms by gaining control of profitable trade routes
+
+Kingdoms of West Africa (Ghana, Mali, Songhay) will rely on slave labor and will trade slaves along with the gold and salt
+
+#### The Kingdom of Ghana
+
+#### The Kingdom of Mali
+
+#### The Kingdom of Songhay
+
+(1000s) the rulers of Songhay converted to Islam (capital city at Gao in West Africa)
+
+(1400s) king Sonni Ali conquered Mali and cities of Jenne and Timbuktu
+
+(1464) Sonhay became largest kingdom in history of Africa (using army to control trade routes like previous West African kingdoms)
+(1465) 
+Sonni Ali demanded total obedience but kingdom became mixture of Islamic and native, polytheistic cultures
+
+This Muslim kingdom had vibrant trade with Europe and Asia
+
+(1591) civil war and invasions by Muslims from Morocco (using muskets) destroyed empire
