@@ -19,7 +19,12 @@ if (!existsSync(publicDir)) {
 }
 
 // Get all .md files from root directory
-const files = readdirSync(rootDir).filter(file => file.endsWith('.md') && file !== 'README.md');
+const files = readdirSync(rootDir).filter(file => 
+  file.endsWith('.md') && 
+  file !== 'README.md' && 
+  file !== 'FLASHCARD_DOCUMENTATION.md' &&
+  file.startsWith('Unit')
+);
 
 console.log('Copying markdown files to public/content/...');
 files.forEach(file => {
