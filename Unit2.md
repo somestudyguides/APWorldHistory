@@ -5,7 +5,7 @@ __2.1__
 
 __2.2__
 
-__2.3 - DO 1ST PART__
+__2.3__
 
 __2.4__
 
@@ -192,6 +192,52 @@ Mongols fighting techniques and ???? were adopted by other states or forced thos
 Development of ???? (used by Mongols) contributed to the end of Eurasian cities reliance on walls for protection
 
 ## 2.3 Indian Ocean Exchange
+
+### Causes of Expanded Exchange in the Indian Ocean
+
+(c. 200 BCE) trade lanes of western Indian Ocean developed at same time as Silk Road
+
+Maritime trade routes less vulnerable to political conflicts than Silk Road, more secure, and boats carried large quantities of goods
+
+Indian Ocean trade routes connected Southeast Asia, Southwest Asia, China, East Africa, and India
+
+Trade remained most important motivation for travel but diplomacy and missionary activites also encouraged travel
+
+spread of Islam led to increased trade in Indian Ocean (Muslims living in East Africa and Middle East traded with Muslims on west coase of India)
+
+Indian cities like Calicut and Cambay became vibrant centers of trade in India (largely run by Muslims but ethnically diverse cities)
+
+Indian Ocean trade expanded due to demand for specialized products from various regions
+
+India produced cotton fabrics, steel, leather, stonework, pepper
+
+Maritime Southeast Asia known as the Spice Islands (nutmeg, cinnamon, cloves, cardamom)
+
+cities of Swahili Coast in East Africa (Mombasa, Mogadishu, Sofala) traded slaves, ivory, gold
+
+China exported silks, porcelain ("fine China")
+
+the Middle East traded horses, figs, and dates
+
+trade expanded in Indian Ocean as knowledge of the environment improved
+
+understanding monsoon winds allowed silors to complete a round-trip journey of the Indian Ocean in just a year
+
+monsoon winds blow off east coast of Africa between April and October and then reverse the other half of the year
+
+trade expanded in Indian Ocean as advances were made in maritime technology
+
+shipyards on Persian Gulf, Red Sea, and southern Arabian coastline constructed larger ships as trade grew on Indian Ocean
+
+shipbuilders in Red Sea replaced the square sails with triangular lateen sail (better suited to high winds of the open ocean)
+
+the stern rudder (invented by the Chinese) gave ships more stability and maneuverability
+
+the astrolabe perfected by Muslim merchants allowed sailors to determine their position north or south of equator
+
+Indian Ocean trade benefitted from growth of states located on trade routes
+
+Muslim city-state of ???? (Melaka) used powerful navy to tax ships using the Strait of Malacca (key route between India and China)
 
 ### Effects of Expanded Exchange in the Indian Ocean
 
