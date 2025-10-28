@@ -9,7 +9,7 @@ __2.3__
 
 __2.4__
 
-__2.5 - TODO__
+__2.5 - WIP__
 
 __2.6 - TODO__
 
@@ -325,3 +325,19 @@ Sonni Ali demanded total obedience but kingdom became mixture of Islamic and nat
 This Muslim kingdom had vibrant trade with Europe and Asia
 
 (1591) civil war and invasions by Muslims from Morocco (using muskets) destroyed empire
+
+## 2.5: Cultural Consequences of Connectivity
+
+> (c. 1200 - C. 1450)
+
+### Relgious, Cultural, and Technological Effects of Interaction
+
+(1200 - 1450) various religoins spread using the expanding trade networks
+
+land and sea merchants spread Islam into South and Southeast Asia from Middle East
+
+Buddhism spread to Southeast Asia, China, and Japan following trade routes (adapted it to their own culture and beliefs)
+
+trade lead to increase importance and number of cities along land and sea trade routes
+
+(1200 - 1450) cities on trade routes saw luxury goods, new technologies, religions and culture spread
