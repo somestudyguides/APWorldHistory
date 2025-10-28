@@ -162,3 +162,17 @@ Chinese discontent with Mongol rule led to uprisings and the eventual end of Yua
 The secret White Lotus Society in China worked against Yuan Dynasty and in 1368 Zhu Yuanzhang (Buddhist monk) overthrew Mongols
 
 THe Mongol Empire did not decline and was not defeated (it fell apart as Khans assimilated into the cultures of conquered peoples)
+
+### How Mongols made Modern World
+
+The Mongol Empire is largest land-based empire in history (but was built through brutal conquest)
+
+Mongols stimulated ???? trade throughout Afro-Eurasia (build and maintained trade routes)
+
+Cultural exchanges accelerated ( ???? scientific knowledge to China, medical knowledge and Arabic numbers spread to Europe)
+
+Increased connectivity lead to increased transmission of ???? (bubonic plague spread from Central Asia to much of Eurasia)
+
+Mongols fighting techniques and ???? were adopted by other states or forced those states to adapt to these changes
+
+Development of ???? (used by Mongols) contributed to the end of Eurasian cities reliance on walls for protection
