@@ -267,7 +267,7 @@ Muslim city-state of ???? (Melaka) used powerful navy to tax ships using the Str
 
 • The ming created most powerful maritime empire in the world at the time (leading to great prosperity for all involved)
 
-• After Yongle’s death Ming leaders ended the voyages (an ethnocentric skepticism about the value of contact with the outside world).
+• After Yongle's death Ming leaders ended the voyages (an ethnocentric skepticism about the value of contact with the outside world).
 
 ## 2.4 Trans-Saharan Trade Routes
 
@@ -277,13 +277,13 @@ Northern Africa was western end of both the Silk Road and Indian Ocean route and
 
 Trans-Saharan caravan routes connected people living in West Africa (south of Sahara Desert) to the larger trade network
 
-The Sahara has many salt mines (an essential part of people’s diets)
+The Sahara has many salt mines (an essential part of people's diets)
 
 The Sahara Desert and nearby savanna has many gold mines
 
 The people of the savanna and desert traded their salt to obtain gold from the forested coastal area
 
-(c. 100 CE) the camel (“ship of the desert” originally for western Asia) introduced to the Berbers (nomads who ran trans-Saharan trade)
+(c. 100 CE) the camel ("ship of the desert" originally for western Asia) introduced to the Berbers (nomads who ran trans-Saharan trade)
 
 Invention of camel saddle allowed Berbers to ride camels and increase the load carried
 
