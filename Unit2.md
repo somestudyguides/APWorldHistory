@@ -1,7 +1,5 @@
 # Unit 2
 
-__2.6 - WIP__
-
 ## 2.1: The Silk Roads
 
 ### The Silk Roads
@@ -389,3 +387,29 @@ cotton, sugar, and citrus fruits (along with many other fruits and vegetables) a
 increased food supplies and increasing populations put pressure on resources and led to environmental degradation
 
 overgrazing near Great Zimbabwe led to the abandonment of city in late 1400s
+
+overuse of farmland in Europe led to deforestation and soil erosion (making famines more common)
+
+the Mayans were forced to abandon their cities because of environmental degradtion (slash-and-burn techniques and soil erosion)
+
+### Spread of the Bubonic Plague
+
+long-distance trade increased spread of disease pathogens and lead to the Black Death of the 1300s
+
+(1338) the bubonic plague originated in Mongolia with victims developing black swelling (buboes) caused by internal bleeding
+
+fleas living on rodents (mostly rats) carried the disease and could infect humans if bitten (although this was unknown to the people then)
+
+Mongols spread disease to China during their military campaigns and merchants spread it westward along Silk Road
+
+Mongols laid siege to Black Sea port of Kaffa (controlled by Italians from Genoa) and threw infected bodies over walls with catapults
+
+(1346) some Genoese sailors escaped and returned to Italy (introducing disease to Europe)
+
+From the Red Sea the plague reached Syria, Mesopotamia, Persia and Egypt and from China the plague was inroduced to India
+
+plague typically killed 70% of urban populations and killed about 25% of populations of Europe, China and Egypt
+
+many once-thriving cities were devasted, trade came to near standstill, and farming losses led to widespread famine
+
+Shortages of labor led to social unrest and rebellions (Peasants' Revolt in England in 1381 and Revolt of the Jacquerie in France in 1356)
