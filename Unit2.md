@@ -167,15 +167,15 @@ THe Mongol Empire did not decline and was not defeated (it fell apart as Khans a
 
 The Mongol Empire is largest land-based empire in history (but was built through brutal conquest)
 
-Mongols stimulated ???? trade throughout Afro-Eurasia (build and maintained trade routes)
+Mongols stimulated interregional trade throughout Afro-Eurasia (build and maintained trade routes)
 
-Cultural exchanges accelerated ( ???? scientific knowledge to China, medical knowledge and Arabic numbers spread to Europe)
+Cultural exchanges accelerated (Islamic scientific knowledge to China, medical knowledge and Arabic numbers spread to Europe)
 
-Increased connectivity lead to increased transmission of ???? (bubonic plague spread from Central Asia to much of Eurasia)
+Increased connectivity lead to increased transmission of disease (bubonic plague spread from Central Asia to much of Eurasia)
 
-Mongols fighting techniques and ???? were adopted by other states or forced those states to adapt to these changes
+Mongols fighting techniques and technologies were adopted by other states or forced those states to adapt to these changes
 
-Development of ???? (used by Mongols) contributed to the end of Eurasian cities reliance on walls for protection
+Development of gunpowder (used by Mongols) contributed to the end of Eurasian cities reliance on walls for protection
 
 ## 2.3 Indian Ocean Exchange
 
@@ -223,7 +223,7 @@ the astrolabe perfected by Muslim merchants allowed sailors to determine their p
 
 Indian Ocean trade benefitted from growth of states located on trade routes
 
-Muslim city-state of ???? (Melaka) used powerful navy to tax ships using the Strait of Malacca (key route between India and China)
+Muslim city-state of Malacca (Melaka) used powerful navy to tax ships using the Strait of Malacca (key route between India and China)
 
 ### Effects of Expanded Exchange in the Indian Ocean
 
@@ -296,7 +296,19 @@ Kingdoms of West Africa (Ghana, Mali, Songhay) will rely on slave labor and will
 
 #### The Kingdom of Ghana
 
+Ghana was the first trading kingdom in West Africa
+
+Ghana became powerful by taxing trade in North Africa
+
+Ghana declined when Muslim invaders invaded
+
 #### The Kingdom of Mali
+
+Mansa Musa was the ruler of Mali (very wealthy and Muslim)
+
+Mansa Musa did a pilgrimage to Mecca spreading Mali's fame and wealth
+
+Timbuktu became a key city for Islamic scholarship and trade under Mali
 
 #### The Kingdom of Songhay
 
