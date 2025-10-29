@@ -1,6 +1,6 @@
 # Unit 2
 
-__2.6 - TODO__
+__2.6 - WIP__
 
 ## 2.1: The Silk Roads
 
@@ -373,3 +373,19 @@ Ibn Battuta recorded tales from his journey (a popular book that provides histor
 ### Agricultural Effects of Exchange Networks
 
 crops from specific regions migrated to new regions and had profound impacts on those new regions
+
+Champa rice (from Vietnam, but perhaps originally from India) was first offered to China as tribute
+
+Champa rice is drought-resistant, flood-resistant, and creates two crops yields per year (quickly spread throughout China)
+
+Champa rice fed China's growing population but also allowed for the Chinese population to continue growing more
+
+Champa rice grown in terrace farms in mountains and paddies in lowland (changing the Chinese landscape and environment)
+
+Bananas (from Indonesia) traveled through Indian Ocean trade networks to Sub-Saharan Africa (new lands deforested to farm bananas)
+
+cotton, sugar, and citrus fruits (along with many other fruits and vegetables) also spread on trade routes
+
+increased food supplies and increasing populations put pressure on resources and led to environmental degradation
+
+overgrazing near Great Zimbabwe led to the abandonment of city in late 1400s
