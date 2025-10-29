@@ -365,3 +365,11 @@ Ibn Battuta recorded tales from his journey (a popular book that provides histor
 #### Also...
 
 (1413) Margery Kempe from England journeyed to Holy Lands and Italy (her autobiography provided insights on women in medieval times)
+
+## 2.6: Environmental Consequences of Connectivity
+
+> (c. 1200 - C. 1450)
+
+### Agricultural Effects of Exchange Networks
+
+crops from specific regions migrated to new regions and had profound impacts on those new regions
