@@ -2,30 +2,29 @@
 
 ## 📚 Overview
 
-This repository contains AP World History study materials in markdown format, along with an interactive flashcard web application that automatically indexes and displays the content.
+This repository contains AP World History study materials in markdown format, along with a simple static flashcard web application that automatically displays the content.
 
 ## 🌟 Features
 
 The flashcard website provides:
-- **Automatic Indexing**: Reads all markdown files from the repository and converts them into interactive flashcards
-- **No Manual Updates Needed**: When markdown files are updated, the website automatically reflects changes after rebuild
+- **Simple Static HTML**: Single-file application, no build tools needed
+- **Automatic Deployment**: Changes to markdown files automatically update the website via GitHub Pages
 - **Interactive Learning**: Click-to-flip flashcards with smooth animations
 - **Filtering**: Filter flashcards by unit/topic
 - **Responsive Design**: Works on all devices (desktop, tablet, mobile)
-- **GitHub Pages Deployment**: Accessible online at https://somestudyguides.github.io/APWorldHistory/
+- **Zero Configuration**: Just push to GitHub and it works!
 
 ## 📁 Repository Structure
 
 ```
 APWorldHistory/
-├── Unit2.md                    # Study content (markdown files)
-├── Unit3.md, Unit4.md, etc.   # Additional units (as added)
-├── flashcard-app/             # React flashcard application
-│   ├── src/                   # Source code
-│   ├── public/                # Static assets
-│   ├── scripts/               # Build scripts
-│   └── README.md              # Detailed app documentation
-├── README.md                  # This file
+├── index.html                 # Flashcard web app (single HTML file)
+├── Unit2.md                   # Study content (markdown files)
+├── Unit3.md, Unit4.md, etc.  # Additional units (as added)
+├── DEPLOY.md                 # Quick deployment guide
+├── FLASHCARD_DOCUMENTATION.md # This file
+├── flashcard-app/            # Old React version (can be ignored/removed)
+└── README.md
 └── LICENSE
 ```
 
@@ -38,51 +37,22 @@ Simply visit the deployed website:
 
 No installation needed!
 
-### For Developers (Local Development)
-
-1. **Navigate to the app directory**:
-   ```bash
-   cd flashcard-app
-   ```
-
-2. **Install dependencies**:
-   ```bash
-   npm install
-   ```
-
-3. **Run locally**:
-   ```bash
-   npm run dev
-   ```
-
-4. **Build for production**:
-   ```bash
-   npm run build
-   ```
-
-5. **Deploy to GitHub Pages**:
-   ```bash
-   npm run deploy
-   ```
-
 ## 📝 Adding New Study Content
 
 ### Adding New Units
 
 1. Create a new markdown file in the repository root (e.g., `Unit3.md`)
 2. Format your content following the structure in `Unit2.md`
-3. Update the flashcard app to include the new file:
-   - Edit `flashcard-app/src/utils/markdownParser.js`
-   - Add your new file to the `mdFiles` array:
-     ```javascript
-     const mdFiles = ['Unit2.md', 'Unit3.md', 'Unit4.md'];
-     ```
-4. Rebuild and deploy:
+3. Edit `index.html` to load the new file (add it to the `loadFlashcards` function)
+4. Commit and push to GitHub:
    ```bash
-   cd flashcard-app
-   npm run build
-   npm run deploy
+   git add Unit3.md index.html
+   git commit -m "Add Unit 3"
+   git push
    ```
+5. GitHub Pages automatically updates within 1-2 minutes!
+
+**Note:** Currently, `index.html` only loads `Unit2.md`. To support multiple units, you'll need to modify the JavaScript in `index.html` to fetch and parse additional files.
 
 ### Markdown Format Guidelines
 
@@ -106,46 +76,38 @@ More specific information...
   Second key point
 ```
 
-**Note**: Do NOT modify the markdown files in the `flashcard-app/public/content/` directory - these are automatically copied during build.
-
 ## 🛠️ Technical Details
 
 ### Technology Stack
 
-- **React 19**: Modern UI framework
-- **Vite**: Fast build tool and dev server
-- **JavaScript (ES6+)**: Modern JavaScript
-- **GitHub Pages**: Free hosting
-- **Markdown**: Content format
+- **Pure HTML/CSS/JavaScript**: No framework, no build tools
+- **Static File**: Single `index.html` file
+- **GitHub Pages**: Free hosting directly from the repository
+- **Markdown**: Content format (Unit*.md files)
 
-### How Auto-Indexing Works
+### How It Works
 
-1. **Build Time**: The `scripts/copy-md.js` script copies all `.md` files from the repository root to `public/content/`
-2. **Runtime**: The React app fetches markdown files and parses them using `markdownParser.js`
-3. **Display**: Parsed content is displayed as interactive flashcards
-4. **Auto-Update**: When markdown files change, rebuild + redeploy updates the website
+1. **Load Time**: The browser loads `index.html`
+2. **Fetch Markdown**: JavaScript fetches `Unit2.md` from the same directory
+3. **Parse Content**: JavaScript parses markdown and extracts Q&A pairs
+4. **Display**: Flashcards are rendered with flip animations
+5. **Auto-Update**: When you push changes to GitHub, Pages serves the updated files
 
-### Build Process
+### File Structure
 
-```bash
-npm run build
-```
+The entire app is contained in `index.html`:
+- HTML structure
+- CSS styling (embedded in `<style>` tags)
+- JavaScript logic (embedded in `<script>` tags)
 
-This command:
-1. Executes `copy-md.js` to copy markdown files
-2. Builds the React app with Vite
-3. Outputs production files to `dist/`
+This makes it extremely simple to deploy - just push to GitHub!
 
-### Deployment Process
+### Deployment
 
-```bash
-npm run deploy
-```
-
-This command:
-1. Runs the build process
-2. Pushes the `dist/` folder to the `gh-pages` branch
-3. GitHub Pages automatically serves the updated site
+The website deploys automatically when you push to the `main` branch:
+1. Make changes to `Unit2.md` or `index.html`
+2. Commit and push to GitHub
+3. GitHub Pages serves the updated files within 1-2 minutes
 
 ## 📖 Full Documentation
 

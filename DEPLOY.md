@@ -2,95 +2,74 @@
 
 ## 🚀 Deploying to GitHub Pages
 
-Follow these simple steps to deploy the flashcard website:
+The flashcard website is now a **simple static HTML file** that deploys automatically!
 
-### Step 1: Navigate to the flashcard app
-```bash
-cd flashcard-app
-```
+### Automatic Deployment
 
-### Step 2: Install dependencies (first time only)
-```bash
-npm install
-```
+Every time you push changes to the `main` branch, GitHub Pages automatically serves the website from `index.html`.
 
-### Step 3: Deploy to GitHub Pages
-```bash
-npm run deploy
-```
+**Website URL:** https://somestudyguides.github.io/APWorldHistory/
 
-That's it! The website will be live at:
-**https://somestudyguides.github.io/APWorldHistory/**
+### Enabling GitHub Pages (One-Time Setup)
+
+If not already enabled:
+
+1. Go to your repository on GitHub
+2. Click **Settings** → **Pages**
+3. Under "Source", select:
+   - **Branch:** `main`
+   - **Folder:** `/ (root)`
+4. Click **Save**
+
+That's it! Your site will be live in 1-2 minutes.
 
 ---
 
 ## 🔄 Updating the Website
 
-When you add or modify markdown files:
+The website automatically updates when you modify markdown files!
 
-1. Navigate to flashcard app:
+**To add new content:**
+
+1. Edit `Unit2.md` or add new unit files (`Unit3.md`, `Unit4.md`, etc.) in the repository root
+2. Commit and push to the `main` branch:
    ```bash
-   cd flashcard-app
+   git add Unit2.md
+   git commit -m "Update Unit 2 content"
+   git push
    ```
+3. GitHub Pages will automatically update within 1-2 minutes!
 
-2. If you added new Unit files (e.g., Unit3.md), edit `src/utils/markdownParser.js`:
-   ```javascript
-   const mdFiles = ['Unit2.md', 'Unit3.md', 'Unit4.md'];
-   ```
-
-3. Rebuild and redeploy:
-   ```bash
-   npm run deploy
-   ```
-
-The website will automatically update within 1-2 minutes!
+**Note:** The `index.html` file currently loads `Unit2.md`. To add more units, edit `index.html` and add them to the loading function.
 
 ---
 
-## 🧪 Testing Locally (Optional)
+## 🧪 Testing Locally
 
-To preview changes before deploying:
+To preview the website on your computer:
 
-1. Start development server:
+1. **Option 1: Simple Python Server**
    ```bash
-   npm run dev
+   python3 -m http.server 8000
    ```
+   Then open: `http://localhost:8000/`
 
-2. Open browser to: `http://localhost:5173/APWorldHistory/`
+2. **Option 2: Any Local Web Server**
+   Just serve the repository root directory with any web server.
 
-3. Make changes and see them update live
-
-4. When satisfied, deploy with `npm run deploy`
+The flashcards will load from the `Unit2.md` file in the same directory.
 
 ---
 
 ## ✅ Checklist
 
-Before deploying:
+Before updating:
 - [ ] Markdown files are in the repository root
-- [ ] New units are added to `mdFiles` array in `markdownParser.js`
+- [ ] Content follows the format (headers, bullet points)
 - [ ] Tested locally (optional but recommended)
-- [ ] Ready to run `npm run deploy`
+- [ ] Ready to commit and push to `main`
 
-After deploying:
+After pushing:
 - [ ] Wait 1-2 minutes for GitHub Pages to update
 - [ ] Visit https://somestudyguides.github.io/APWorldHistory/
 - [ ] Verify flashcards are showing correctly
-
----
-
-## ❓ Troubleshooting
-
-**Website not updating?**
-- Wait a few minutes and refresh
-- Clear browser cache (Ctrl+Shift+R or Cmd+Shift+R)
-- Check that deployment succeeded (no errors in terminal)
-
-**Flashcards not showing?**
-- Verify markdown files are named `Unit*.md`
-- Check `mdFiles` array includes your files
-- Run `npm run build` to see if there are errors
-
-**Need help?**
-- See `flashcard-app/README.md` for detailed documentation
-- See `FLASHCARD_DOCUMENTATION.md` for full user guide

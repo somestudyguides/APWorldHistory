@@ -1,19 +1,5 @@
 # Unit 2
 
-
-__2.1__
-
-__2.2__
-
-__2.3 - DO 1ST PART__
-
-__2.4__
-
-__2.5 - TODO__
-
-__2.6 - TODO__
-
-
 ## 2.1: The Silk Roads
 
 ### The Silk Roads
@@ -193,6 +179,52 @@ Development of ???? (used by Mongols) contributed to the end of Eurasian cities 
 
 ## 2.3 Indian Ocean Exchange
 
+### Causes of Expanded Exchange in the Indian Ocean
+
+(c. 200 BCE) trade lanes of western Indian Ocean developed at same time as Silk Road
+
+Maritime trade routes less vulnerable to political conflicts than Silk Road, more secure, and boats carried large quantities of goods
+
+Indian Ocean trade routes connected Southeast Asia, Southwest Asia, China, East Africa, and India
+
+Trade remained most important motivation for travel but diplomacy and missionary activites also encouraged travel
+
+spread of Islam led to increased trade in Indian Ocean (Muslims living in East Africa and Middle East traded with Muslims on west coase of India)
+
+Indian cities like Calicut and Cambay became vibrant centers of trade in India (largely run by Muslims but ethnically diverse cities)
+
+Indian Ocean trade expanded due to demand for specialized products from various regions
+
+India produced cotton fabrics, steel, leather, stonework, pepper
+
+Maritime Southeast Asia known as the Spice Islands (nutmeg, cinnamon, cloves, cardamom)
+
+cities of Swahili Coast in East Africa (Mombasa, Mogadishu, Sofala) traded slaves, ivory, gold
+
+China exported silks, porcelain ("fine China")
+
+the Middle East traded horses, figs, and dates
+
+trade expanded in Indian Ocean as knowledge of the environment improved
+
+understanding monsoon winds allowed silors to complete a round-trip journey of the Indian Ocean in just a year
+
+monsoon winds blow off east coast of Africa between April and October and then reverse the other half of the year
+
+trade expanded in Indian Ocean as advances were made in maritime technology
+
+shipyards on Persian Gulf, Red Sea, and southern Arabian coastline constructed larger ships as trade grew on Indian Ocean
+
+shipbuilders in Red Sea replaced the square sails with triangular lateen sail (better suited to high winds of the open ocean)
+
+the stern rudder (invented by the Chinese) gave ships more stability and maneuverability
+
+the astrolabe perfected by Muslim merchants allowed sailors to determine their position north or south of equator
+
+Indian Ocean trade benefitted from growth of states located on trade routes
+
+Muslim city-state of ???? (Melaka) used powerful navy to tax ships using the Strait of Malacca (key route between India and China)
+
 ### Effects of Expanded Exchange in the Indian Ocean
 
 • One effect of increased Indian Ocean trade was the creation of diasporic communities (settlements of people outside their homeland)
@@ -235,7 +267,7 @@ Development of ???? (used by Mongols) contributed to the end of Eurasian cities 
 
 • The ming created most powerful maritime empire in the world at the time (leading to great prosperity for all involved)
 
-• After Yongle’s death Ming leaders ended the voyages (an ethnocentric skepticism about the value of contact with the outside world).
+• After Yongle's death Ming leaders ended the voyages (an ethnocentric skepticism about the value of contact with the outside world).
 
 ## 2.4 Trans-Saharan Trade Routes
 
@@ -245,13 +277,13 @@ Northern Africa was western end of both the Silk Road and Indian Ocean route and
 
 Trans-Saharan caravan routes connected people living in West Africa (south of Sahara Desert) to the larger trade network
 
-The Sahara has many salt mines (an essential part of people’s diets)
+The Sahara has many salt mines (an essential part of people's diets)
 
 The Sahara Desert and nearby savanna has many gold mines
 
 The people of the savanna and desert traded their salt to obtain gold from the forested coastal area
 
-(c. 100 CE) the camel (“ship of the desert” originally for western Asia) introduced to the Berbers (nomads who ran trans-Saharan trade)
+(c. 100 CE) the camel ("ship of the desert" originally for western Asia) introduced to the Berbers (nomads who ran trans-Saharan trade)
 
 Invention of camel saddle allowed Berbers to ride camels and increase the load carried
 
@@ -279,3 +311,105 @@ Sonni Ali demanded total obedience but kingdom became mixture of Islamic and nat
 This Muslim kingdom had vibrant trade with Europe and Asia
 
 (1591) civil war and invasions by Muslims from Morocco (using muskets) destroyed empire
+
+## 2.5: Cultural Consequences of Connectivity
+
+> (c. 1200 - C. 1450)
+
+### Relgious, Cultural, and Technological Effects of Interaction
+
+(1200 - 1450) various religoins spread using the expanding trade networks
+
+land and sea merchants spread Islam into South and Southeast Asia from Middle East
+
+Buddhism spread to Southeast Asia, China, and Japan following trade routes (adapted it to their own culture and beliefs)
+
+trade lead to increase importance and number of cities along land and sea trade routes
+
+(1200 - 1450) cities on trade routes saw luxury goods, new technologies, religions and culture spread
+
+Jenne, Timbuktu and Gao thrived on West African land routes
+
+cities like Constantinople and Kiev thrived on European land routes
+
+Baghdad (Middle East), Samarkand and Bukhara (Central Asia), and Dunhuang and Chang'an (East Asia) thrived on Silk Road
+
+Venice and Constantinople in Europe and Tyre in Middle East were important seaports on the Mediterranean Sea
+
+Hormuz (Middle East), Zanziabar, Mogadishu and Kilwa (East Africa), Calicut and Goa (India), Malacca (Southease Asia), were important Indian Ocean seaports
+
+seaports like Hangzhou and Guangzhou allowed China to link into Indian Ocean routes
+
+### The Travels of Marco Polo and Ibn Battuta
+
+long-distance travel made easier through unifying forces of Pax Mongolia (the Mongol Peace) and Dar al-Salam (the house of Islam)
+
+(1274) Marco Polo (an Italian merchant) completed long journey that led him to court of Mongol leader Kublai Khan in China
+
+Marco Polo served Kublai Khan for next 17 years before returning to Italy
+
+he produced a written account of the sites, people, and events he encountered (this diary became a best-seller in Europe)
+
+Marco Polo inspired generations of Europeans to connect with outside world (led to exploration of the Americas and Africa)
+
+(1325) Ibn Battuta (a Muslim from Morocco in North Africa) began a journey that would last 44 years and cover 73,000 miles
+
+visited Mecca, Constantinople, Mesopotamia, Persia, India, Southeast Asia, southern China, Spain, and Mali
+
+Ibn Battuta's journeys mostly confined to Dar al-Islam but a variety of people and cultures
+
+Ibn Battuta recorded tales from his journey (a popular book that provides historians with important insights into the time period)
+
+#### Also...
+
+(1413) Margery Kempe from England journeyed to Holy Lands and Italy (her autobiography provided insights on women in medieval times)
+
+## 2.6: Environmental Consequences of Connectivity
+
+> (c. 1200 - C. 1450)
+
+### Agricultural Effects of Exchange Networks
+
+crops from specific regions migrated to new regions and had profound impacts on those new regions
+
+Champa rice (from Vietnam, but perhaps originally from India) was first offered to China as tribute
+
+Champa rice is drought-resistant, flood-resistant, and creates two crops yields per year (quickly spread throughout China)
+
+Champa rice fed China's growing population but also allowed for the Chinese population to continue growing more
+
+Champa rice grown in terrace farms in mountains and paddies in lowland (changing the Chinese landscape and environment)
+
+Bananas (from Indonesia) traveled through Indian Ocean trade networks to Sub-Saharan Africa (new lands deforested to farm bananas)
+
+cotton, sugar, and citrus fruits (along with many other fruits and vegetables) also spread on trade routes
+
+increased food supplies and increasing populations put pressure on resources and led to environmental degradation
+
+overgrazing near Great Zimbabwe led to the abandonment of city in late 1400s
+
+overuse of farmland in Europe led to deforestation and soil erosion (making famines more common)
+
+the Mayans were forced to abandon their cities because of environmental degradtion (slash-and-burn techniques and soil erosion)
+
+### Spread of the Bubonic Plague
+
+long-distance trade increased spread of disease pathogens and lead to the Black Death of the 1300s
+
+(1338) the bubonic plague originated in Mongolia with victims developing black swelling (buboes) caused by internal bleeding
+
+fleas living on rodents (mostly rats) carried the disease and could infect humans if bitten (although this was unknown to the people then)
+
+Mongols spread disease to China during their military campaigns and merchants spread it westward along Silk Road
+
+Mongols laid siege to Black Sea port of Kaffa (controlled by Italians from Genoa) and threw infected bodies over walls with catapults
+
+(1346) some Genoese sailors escaped and returned to Italy (introducing disease to Europe)
+
+From the Red Sea the plague reached Syria, Mesopotamia, Persia and Egypt and from China the plague was inroduced to India
+
+plague typically killed 70% of urban populations and killed about 25% of populations of Europe, China and Egypt
+
+many once-thriving cities were devasted, trade came to near standstill, and farming losses led to widespread famine
+
+Shortages of labor led to social unrest and rebellions (Peasants' Revolt in England in 1381 and Revolt of the Jacquerie in France in 1356)
