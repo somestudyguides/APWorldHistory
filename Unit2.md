@@ -84,7 +84,7 @@ Kashgar in western China and Samarkand in Uzbekistan located on rivers and serve
 
 ## 2.2: The Mongol Empire and the Making of the Modern World
 
-The Mongole Empire covered 22% of Earth's Land Surface
+> The Mongole Empire covered 22% of Earth's Land Surface
 
 ### Rise of the Mongols
 
@@ -114,7 +114,7 @@ Tamerlane conquered India and established the Mughal Dynasty (Islam introduced t
 
 ### Expansion of the Mongol Empire
 
-1206
+> 1206
 
 ### Pax Mongolia
 
